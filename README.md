@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mellow E-commerce Frontend
 
 A beautiful, responsive e-commerce storefront built with React, TypeScript, and Tailwind CSS. This application demonstrates modern frontend practices for building an online shopping experience.
@@ -83,3 +84,5 @@ npm run dev
 - Add product reviews
 - Implement wishlist functionality
 - Add animations for cart operations
+=======
+>>>>>>> d1b0d81 (second commit)
