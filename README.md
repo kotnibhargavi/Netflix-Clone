@@ -1,6 +1,12 @@
 # 🎬 Netflix Clone
 
 A fully responsive Netflix Clone web app built using React and Firebase. It features user authentication (sign up/sign in), dynamic UI with hero banner and movie cards, and a player page for streaming trailers.
+## 🔗 Live Demo
+
+[Click here to view the project](https://netflix-clone-two-tawny-69.vercel.app/)  
+> ⚠️ For best results, open in **Incognito/Private mode** if login doesn't work due to cached Firebase sessions.
+
+
 
 ## 🚀 Features
 
