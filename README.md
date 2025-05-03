@@ -46,7 +46,7 @@ src/
 
 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/netflix-clone.git
+git clone [Clone Repo](https://github.com/kotnibhargavi/Netflix-Clone.git)
 cd netflix-clone
 2. Install dependencies
 npm install
