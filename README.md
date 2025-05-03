@@ -28,6 +28,7 @@ A fully responsive Netflix Clone web app built using React and Firebase. It feat
 
 
 src/
+
 │
 ├── firebase.js           # Firebase config
 ├── App.js                # Routing setup
