@@ -25,10 +25,7 @@ A fully responsive Netflix Clone web app built using React and Firebase. It feat
 
 ## 📁 Project Structure
 
-
-
-src/
-
+```
 src/
 │
 ├── firebase.js           # Firebase configuration
@@ -45,6 +42,8 @@ src/
 │   ├── HeroBanner.jsx
 │   ├── MovieCard.jsx
 │   └── RowScroller.jsx   # Scrollable movie rows
+```
+
 
 
 
